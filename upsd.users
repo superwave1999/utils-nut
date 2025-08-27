@@ -1,0 +1,8 @@
+[admin]
+  password = admin
+  actions = SET
+  instcmds = ALL
+  admin master
+[monitor]
+  password = monitor
+  upsmon slave
